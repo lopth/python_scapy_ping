@@ -1,2 +1,3 @@
-# python_scapy_ping
-Repositorio da ferramenta Scapy Ping
+# LOPTH - Pentest Own Project
+# Scapy Ping
+Repositorio da ferramenta Scapy Ping.
