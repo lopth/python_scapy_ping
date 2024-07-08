@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 from scapy.all import *
 
@@ -13,4 +13,4 @@ for ip in range (1, 255):
         resp, noresp = sr(pacote,timeout=1)
 
         for resposta in resp:
-                print resposta[1][IP].src
+                print(resposta[1][IP].src)
